@@ -1,7 +1,7 @@
 {
   "name": "hubot-7days-later",
   "description": "A Hubot script for sending a message to yourself seven days later.",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "bouzuya <m@bouzuya.net>",
   "license": "MIT",
   "keywords": "hubot, hubot-scripts",
